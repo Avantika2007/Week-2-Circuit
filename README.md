@@ -1,2 +1,2 @@
 # first-circuit
-balls
+Pictures of our process
