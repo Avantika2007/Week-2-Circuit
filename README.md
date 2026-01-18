@@ -1,2 +1,2 @@
 # first-circuit
-balls
+diagrams of the circuits
